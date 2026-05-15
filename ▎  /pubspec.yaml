@@ -1,0 +1,21 @@
+yaml
+▎  name: durian_master 
+▎  description: 榴莲大师 - AI帮你挑榴莲 
+▎  publish_to: 'none' 
+▎  version: 1.0.0+1 
+▎   
+▎  environment: 
+▎    sdk: '>=3.1.0 <4.0.0' 
+▎   
+▎  dependencies: 
+▎    flutter: 
+▎      sdk: flutter 
+▎    image_picker: ^1.0.4 
+▎    image: ^4.1.3 
+▎   
+▎  dev_dependencies: 
+▎    flutter_test: 
+▎      sdk: flutter 
+▎   
+▎  flutter: 
+▎    uses-material-design: true 
